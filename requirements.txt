@@ -23,13 +23,13 @@ joblib==1.2.0
 js==1.0
 jsonfield==3.1.0
 kiwisolver==1.4.4
-matplotlib==3.3.1
+matplotlib==3.6.1
 mypy==0.942
 mypy-extensions==0.4.3
 mysqlclient==2.0.3
 nltk==3.7
 notifications==0.3.2
-numpy==1.22.3
+numpy==1.21.6
 opencv-contrib-python==4.5.5.64
 packaging==21.3
 passlib==1.7.4
