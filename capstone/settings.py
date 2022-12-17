@@ -97,9 +97,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'alumteknew',
         'USER': 'root',
-        'PASSWORD': '',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'PASSWORD': 'AJViBYSqXjHAZoedeOxY3Y7eWnWrppm0',
+        'HOST': 'dpg-ceet3r14reb3r0oncktg-a',
+        'PORT': '5432',
         'OPTIONS':{
         'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
         }
