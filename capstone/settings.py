@@ -34,7 +34,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'diabloxclusive@gmail.com'
 EMAIL_HOST_PASSWORD = 'dmfldxevuwfzkxlj'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
